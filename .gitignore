@@ -22,7 +22,7 @@ jasky-university/local.php
 # app/wp-content/plugins/
 # !app/wp-content/plugins/advanced-custom-fields-pro/
 
-
+local.php
 # Numerous always-ignore extensions
 *.diff
 *.err
