@@ -1,0 +1,11 @@
+.wp-mapbox-gl-js-advanced-options {
+  display: none;
+}
+.wp-mapbox-gl-js-show-editor p {
+  margin-top:5px;
+  margin-left:5px;
+}
+.wp-mapbox-gl-js-show-editor:hover {
+  cursor: pointer;
+  background: #eee;
+}
